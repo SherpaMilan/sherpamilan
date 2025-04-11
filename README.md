@@ -1,16 +1,20 @@
-<blockquote align="center" style="font-style: italic; color: #555; max-width: 600px; margin: auto; line-height: 1.6; font-family: 'Century Gothic', sans-serif;">
-  "I know, I know — it looks a little empty here. 😬<br>
-  But hey, Rome wasn't built in a day, and neither are masterpieces.<br>
-  I don't drop new projects every other day — but when I do, they're straight 🔥.<br>
-  Stay tuned... the real storm is coming!"
-</blockquote>
+<div align="center" style="background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%); padding: 30px; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); max-width: 700px; margin: auto;">
 
+  <blockquote style="font-style: italic; color: #333; max-width: 600px; margin: auto; line-height: 1.6; font-family: 'Century Gothic', sans-serif; background: rgba(255, 255, 255, 0.7); padding: 20px; border-radius: 10px;">
+    "I know, I know — it looks a little empty here. 😬<br>
+    But hey, Rome wasn't built in a day, and neither are masterpieces.<br>
+    I don't drop new projects every other day — but when I do, they're straight 🔥.<br>
+    Stay tuned... the real storm is coming!"
+  </blockquote>
 
-<p align="center">
-  <a href="https://codepen.io/MilanJS" target="_blank" style="text-decoration: none;">
- 🖋️ CodePen: My Secret Lab! 🔬
-  </a>
-</p>
+  <p style="margin-top: 20px;">
+    <a href="https://codepen.io/MilanJS" target="_blank" style="text-decoration: none; font-family: 'Century Gothic', sans-serif; font-weight: bold; color: #4b0082;">
+      🖋️ CodePen: My Secret Lab! 🔬
+    </a>
+  </p>
+
+</div>
+
 
 <h3 align="center">Frontend Developer</h3>
 
