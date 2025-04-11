@@ -1,4 +1,7 @@
-<h1 align="center">Welcome 🤝</h1>
+<p align="center">
+  ✨ <em>"I know, I know — it looks a little empty here. 😬 But hey, Rome wasn't built in a day, and neither are masterpieces.<br><br>
+  I don't drop new projects every other day — but when I do, they're straight 🔥. Stay tuned... the real storm is coming!"</em> ✨
+</p>
 <h3 align="center">Frontend Developer</h3>
 
 <div align="center">
