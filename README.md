@@ -1,13 +1,14 @@
-<blockquote align="center" style="font-style: italic; color: #555; max-width: 600px; margin: auto;">
+<blockquote align="center" style="font-style: italic; color: #555; max-width: 600px; margin: auto; line-height: 1.6; font-family: 'Century Gothic', sans-serif;">
   "I know, I know — it looks a little empty here. 😬<br>
   But hey, Rome wasn't built in a day, and neither are masterpieces.<br>
   I don't drop new projects every other day — but when I do, they're straight 🔥.<br>
   Stay tuned... the real storm is coming!"
 </blockquote>
 
+
 <p align="center">
-  <a href="https://codepen.io/your-work" target="_blank" style="text-decoration: none;">
-    🖋️ Check out my creative playground on CodePen! 
+  <a href="https://codepen.io/MilanJS" target="_blank" style="text-decoration: none;">
+ 🖋️ CodePen: My secret lab! 🪄
   </a>
 </p>
 
