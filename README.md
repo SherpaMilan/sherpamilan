@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://codepen.io/MilanJS" target="_blank" style="text-decoration: none;">
- 🖋️ CodePen: My secret lab! 🪄
+ 🖋️ CodePen: My secret lab! 🔬
   </a>
 </p>
 
