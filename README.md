@@ -1,7 +1,16 @@
+<blockquote align="center" style="font-style: italic; color: #555; max-width: 600px; margin: auto;">
+  "I know, I know — it looks a little empty here. 😬<br>
+  But hey, Rome wasn't built in a day, and neither are masterpieces.<br>
+  I don't drop new projects every other day — but when I do, they're straight 🔥.<br>
+  Stay tuned... the real storm is coming!"
+</blockquote>
+
 <p align="center">
-  ✨ <em>"I know, I know — it looks a little empty here. 😬 But hey, Rome wasn't built in a day, and neither are masterpieces.<br><br>
-  I don't drop new projects every other day — but when I do, they're straight 🔥. Stay tuned... the real storm is coming!"</em> ✨
+  <a href="YOUR_CODEPEN_LINK_HERE" target="_blank" style="text-decoration: none;">
+    🖋️ Check out my creative playground on CodePen! https://codepen.io/your-work
+  </a>
 </p>
+
 <h3 align="center">Frontend Developer</h3>
 
 <div align="center">
