@@ -9,7 +9,7 @@
 
 <h3 align="center" style="font-family: 'Arial', sans-serif; font-weight: bold; color: #3d3d3d;">Tech Toolbox ⚒️</h3>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.1));"/>
   </a>
