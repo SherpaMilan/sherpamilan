@@ -1,5 +1,4 @@
 <div align="center" style="background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%); padding: 30px; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); max-width: 700px; margin: auto;">
-
   <blockquote style="font-style: italic; color: #333; max-width: 600px; margin: auto; line-height: 1.6; font-family: 'Century Gothic', sans-serif; background: rgba(255, 255, 255, 0.7); padding: 20px; border-radius: 10px;">
     "I know, I know — it looks a little empty here. 😬<br>
     But hey, Rome wasn't built in a day, and neither are masterpieces.<br>
@@ -12,11 +11,9 @@
       🖋️ CodePen: My Secret Lab! 🔬
     </a>
   </p>
-
 </div>
 
-
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center" style="font-family: 'Century Gothic', sans-serif;">Frontend Developer</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/milansherpa/" target="_blank">
