@@ -6,8 +6,8 @@
 </blockquote>
 
 <p align="center">
-  <a href="YOUR_CODEPEN_LINK_HERE" target="_blank" style="text-decoration: none;">
-    🖋️ Check out my creative playground on CodePen! https://codepen.io/your-work
+  <a href="https://codepen.io/your-work" target="_blank" style="text-decoration: none;">
+    🖋️ Check out my creative playground on CodePen! 
   </a>
 </p>
 
