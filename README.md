@@ -11,6 +11,12 @@
       🖋️ CodePen: My Secret Lab! 🔬
     </a>
   </p>
+  <p style="margin-top: 20px;">
+  <a href="https://www.codewars.com/users/SherpaMilan" target="_blank" style="text-decoration: none; font-family: 'Century Gothic', sans-serif; font-weight: bold; color: #4b0082;">
+    🥋 Codewars: My Coding Dojo! 🧠
+  </a>
+</p>
+
 </div>
 
 <h3 align="center" style="font-family: 'Century Gothic', sans-serif;">Frontend Developer</h3>
