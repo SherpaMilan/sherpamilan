@@ -6,16 +6,17 @@
     Stay tuned... the real storm is coming!"
   </blockquote>
 
-  <p style="margin-top: 20px;">
-    <a href="https://codepen.io/MilanJS" target="_blank" style="text-decoration: none; font-family: 'Century Gothic', sans-serif; font-weight: bold; color: #4b0082;">
-      🖋️ CodePen: My Secret Lab! 🔬
-    </a>
-  </p>
-  <p style="margin-top: 20px;">
-  <a href="https://www.codewars.com/users/SherpaMilan" target="_blank" style="text-decoration: none; font-family: 'Century Gothic', sans-serif; font-weight: bold; color: #4b0082;">
+<div align="center" style="margin-top: 20px;">
+  <a href="https://codepen.io/MilanJS" target="_blank" style="text-decoration: none; font-family: 'Century Gothic', sans-serif; font-weight: bold; color: #4b0082; margin-right: 15px;">
+    🖋️ CodePen: My Secret Lab! 🔬
+  </a>
+  <a href="https://www.codewars.com/users/SherpaMilan" target="_blank" style="text-decoration: none; font-family: 'Century Gothic', sans-serif; font-weight: bold; color: #4b0082; margin-right: 15px;">
     🥋 Codewars: My Coding Dojo! 🧠
   </a>
-</p>
+  <a href="https://codesandbox.io/u/sherpamilan" target="_blank" style="text-decoration: none; font-family: 'Century Gothic', sans-serif; font-weight: bold; color: #4b0082;">
+    💻 CodeSandbox: My Playground! 🚀
+  </a>
+</div>
 
 </div>
 
